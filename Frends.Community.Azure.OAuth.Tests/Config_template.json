@@ -1,0 +1,24 @@
+{
+	"configlist": [
+		{
+            "key": "Frends.Community.Azure.OAuth.TenantId",
+            "value": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+        },
+        {
+            "key": "Frends.Community.Azure.OAuth.AuthContextURLPrefix",
+            "value": "https://login.windows.net/"
+        },
+        {
+            "key": "Frends.Community.Azure.OAuth.Resource",
+            "value": "https://management.azure.com/"
+        },
+		{
+            "key": "Frends.Community.Azure.OAuth.ClientId",
+            "value": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+        },
+		{
+            "key": "Frends.Community.Azure.OAuth.ClientSecret",
+            "value": "passwordstringfromAzure"
+        }
+    ]
+}
