@@ -72,3 +72,4 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 | Version | Changes |
 | ----- | ----- |
 | 1.0.1 | First version |
+| 1.0.3 | Ensure NET Standard 2.0 compatibility |
